@@ -4,4 +4,4 @@ plugins:
 
 title: Lucy Yu
 description: wuw
-#show_downloads:["true"]
+show_downloads:["true"]
