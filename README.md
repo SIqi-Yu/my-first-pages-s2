@@ -1,9 +1,11 @@
-# my-first-pages-s2
+# Lucy Yu
  
 Hi,hi!!!!!
 This is Lucy Yu
 
--skating
--badminton
--running
--cooking
+## my hobby
+
+ - skating
+ - badminton
+ - running
+ - cooking
